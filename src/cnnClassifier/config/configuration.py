@@ -1,5 +1,5 @@
 from cnnClassifier.constants import *
-from cnnClassifier.common import read_yaml, create_directories
+from cnnClassifier.utils.common import read_yaml, create_directories
 from cnnClassifier.entity.config_entity import DataIngestionConfig
 
 class ConfigurationManager:
