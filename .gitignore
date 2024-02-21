@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-kidneyDataset/
 
 # C extensions
 *.so
@@ -162,3 +161,5 @@ cython_debug/
 #.idea/
 
 artifacts/*
+
+kidneyDataset/*
